@@ -1,0 +1,12 @@
+{
+  "name": "vitest-custom-pool-repro",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "1.2.2"
+  }
+}
